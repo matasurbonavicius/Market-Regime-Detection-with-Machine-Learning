@@ -11,6 +11,7 @@ But overall it is definitely a nice exercise and a good cold shower. Something l
 ## Papers
 
 - [My paper on this project](machine-learning-approach-to-labeling-and-predicting-the-stock-market-1-1.pdf)
+- [My jupyter notebook research only with K-Means in depth](K_Means_Market_Regimes.ipynb)
 - [NYU Team Alpha's original paper](NYU%20Tandon_Team%20Alpha.pdf)
 
 --
