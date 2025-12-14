@@ -8,6 +8,11 @@ There were a few other issues, like the ORACLE labeling is somewhat logically in
 
 But overall it is definitely a nice exercise and a good cold shower. Something looks too good to be true? (also is made by students?) - boy it IS too good to be true.
 
+## Papers
+
+- [My paper on this project](machine-learning-approach-to-labeling-and-predicting-the-stock-market-1-1.pdf)
+- [NYU Team Alpha's original paper](NYU%20Tandon_Team%20Alpha.pdf)
+
 --
 
 Later I added simple model that is logically more correct and without fancy stuff like multiple models, etc. The results are also mediocre. I trained it on 4 indicators, each with 3 sets of parameters, no hyperoptimization. 
